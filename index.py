@@ -1,1 +1,2 @@
-print("hello guys");
+
+logging.info('I told you so')
